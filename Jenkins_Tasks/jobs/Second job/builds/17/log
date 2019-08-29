@@ -1,0 +1,13 @@
+Started by upstream project "[8mha:////4BjP5HVQW6iivZ77CGP4dhECOFHcPxea3XXL0Sr9ip+IAAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAwuoBn6WflJ+sGZuQU5qapGBiAOADEO3/vHAAAA[0mSimple job" build number [8mha:////4MCgi6upinZT5fCNQxkmyHUVZlDp1z+hR4xz1JPj9y+aAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBmH9rPwk/eDM3IKcVFUjAxDHFADHta/GyAAAAA==[0m5
+originally caused by:
+ Started by user [8mha:////4NKtxc30xDhnDuhMFpx5NEUq079hfvVJFzzJpmmMQ1xLAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAxBoBn6pcWpRfqpOanJJUX5eelFiZUAoi0gnccAAAA=[0mGeorge Samusevich
+Running as SYSTEM
+Building in workspace C:\data\Jenkins\workspace\Second job
+[Second job] $ cmd /c call C:\Windows\TEMP\jenkins7874445031721307828.bat
+
+C:\data\Jenkins\workspace\Second job>ECHO HELLO! JENKINS GOOD! 
+HELLO! JENKINS GOOD!
+
+C:\data\Jenkins\workspace\Second job>exit 0 
+Инициирую новую сборку [8mha:////4LHKrJIZ9DP4pZmf9iKVTPHaY2Icm4AOcxllzoCAIEsBAAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZB/az8JP2QjMzUFFUjAxAbAB6LXyPGAAAA[0mThied job
+Finished: SUCCESS

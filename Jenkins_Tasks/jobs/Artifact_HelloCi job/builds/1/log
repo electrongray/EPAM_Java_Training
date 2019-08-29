@@ -1,0 +1,15 @@
+Started by user [8mha:////4NKtxc30xDhnDuhMFpx5NEUq079hfvVJFzzJpmmMQ1xLAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAxBoBn6pcWpRfqpOanJJUX5eelFiZUAoi0gnccAAAA=[0mGeorge Samusevich
+Running as SYSTEM
+Building on master in workspace C:\data\Jenkins\workspace\Artifact_HelloCi job
+[Artifact_HelloCi job] $ cmd /c call C:\Windows\TEMP\jenkins2327639507646103768.bat
+
+C:\data\Jenkins\workspace\Artifact_HelloCi job>ECHO http://localhost:8080/job/Home_00_000job/ws/Java/target/surefire- 
+http://localhost:8080/job/Home_00_000job/ws/Java/target/surefire-
+
+C:\data\Jenkins\workspace\Artifact_HelloCi job>reports/com.github.vitalliuss.helloci.AppTest.txt
+"reports" не является внутренней или внешней
+командой, исполняемой программой или пакетным файлом.
+
+C:\data\Jenkins\workspace\Artifact_HelloCi job>exit 9009 
+Build step '┬√яюыэшЄ№ ъюьрэфє Windows' marked build as failure
+Finished: FAILURE
