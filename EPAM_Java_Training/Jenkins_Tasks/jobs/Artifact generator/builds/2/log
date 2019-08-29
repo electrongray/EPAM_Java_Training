@@ -1,0 +1,10 @@
+Started by user [8mha:////4NKtxc30xDhnDuhMFpx5NEUq079hfvVJFzzJpmmMQ1xLAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAxBoBn6pcWpRfqpOanJJUX5eelFiZUAoi0gnccAAAA=[0mGeorge Samusevich
+Running as SYSTEM
+Building in workspace C:\data\Jenkins\workspace\Artifact generator
+[Artifact generator] $ cmd /c call C:\Windows\TEMP\jenkins685106944612625645.bat
+
+C:\data\Jenkins\workspace\Artifact generator>ECHO Hello! 1>file.txt 
+
+C:\data\Jenkins\workspace\Artifact generator>exit 0 
+Archiving artifacts
+Finished: SUCCESS

@@ -1,0 +1,20 @@
+
+Andre   01 7
+
+Mark    02 8
+
+David   03 9
+
+Oliver  04 8
+
+George  05 9
+
+Vlad    06 7
+
+Peter   07 8
+
+Paule   08 6
+
+John    09 8
+
+Serge   10 7
