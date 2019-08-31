@@ -1,1 +1,0 @@
-[Andre   01 7, MARK    02 8, DAVID   03 9, OLIVER  04 8, GEORGE  05 9, Vlad    06 7, PETER   07 8, Paule   08 6, JOHN    09 8, Serge   10 7]
